@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="24.0sp" android:gravity="center" android:id="@id/categoryText" android:layout_width="fill_parent" android:layout_height="62.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <ListView android:scrollbarSize="6.0dip" android:id="@id/subclasslist" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="70.0dip" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/categoryText" />
+</androidx.constraintlayout.widget.ConstraintLayout>

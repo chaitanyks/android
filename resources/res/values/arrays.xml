@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="categories">
+        <item>Abdomen</item>
+        <item>Breast</item>
+        <item>Cardio</item>
+        <item>Chest</item>
+        <item>H &amp; N</item>
+        <item>MSK</item>
+        <item>Neuro</item>
+        <item>Pediatric</item>
+    </array>
+</resources>

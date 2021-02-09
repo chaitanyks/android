@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/editNotesText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name" android:ems="10" android:inputType="textPersonName" />
+    <Button android:id="@id/notesSave" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Button" />
+</androidx.constraintlayout.widget.ConstraintLayout>

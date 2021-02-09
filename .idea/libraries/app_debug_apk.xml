@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="app-debug.apk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app-debug.apk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
